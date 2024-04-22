@@ -2,7 +2,7 @@
 
 A food delivery system with an admin panel and a mobile application for users streamlines the process of ordering food and managing deliveries. Here's a description:
 
-## Admin Panel:
+## Admin Panel
 • The admin panel serves as the backend interface for restaurant owners or administrators to manage menus, orders, delivery schedules, and user accounts.<br />
 • Administrators can update menu items, set prices, adjust availability, view order details, assign delivery staff, and track delivery statuses.<br />
 • They can also analyze sales data, monitor performance metrics, and generate reports to optimize operations and improve customer service.<br />
