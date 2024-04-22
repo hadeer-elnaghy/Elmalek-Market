@@ -32,4 +32,15 @@ Users can create accounts, save favorite orders, customize preferences, and rece
 ## Promotions and Loyalty Programs:
 • The system can offer promotional discounts, deals, and loyalty programs to incentivize users to order frequently and retain loyal customers.<br />
 • Personalized offers based on user preferences and ordering history can enhance user engagement and increase customer retention.<br />
-This food delivery system with an admin panel and a mobile application provides a convenient and efficient way for users to order food, for restaurants to manage orders, and for delivery staff to fulfill deliveries effectively.
+This food delivery system with an admin panel and a mobile application provides a convenient and efficient way for users to order food, for restaurants to manage orders, and for delivery staff to fulfill deliveries effectively. <br />
+
+## Delivery Driver Mobile Application:
+• The delivery driver mobile application allows delivery personnel to receive order assignments, view optimized delivery routes, update order statuses, and communicate with customers. <br />
+• Drivers can access order details, navigate efficiently to delivery locations, provide real-time location updates, confirm deliveries, and handle payment transactions if necessary. <br />
+• The application streamlines the delivery process, enhances driver efficiency, and improves overall delivery service quality. <br />
+
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_3b4dfe64.jpg)
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.47_baf86802.jpg)
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_b8f2cc51.jpg)
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_da7d1a61.jpg)
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_8aea77ea.jpg)
