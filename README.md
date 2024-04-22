@@ -6,6 +6,11 @@ A food delivery system with an admin panel and a mobile application for users st
 • The admin panel serves as the backend interface for restaurant owners or administrators to manage menus, orders, delivery schedules, and user accounts.<br />
 • Administrators can update menu items, set prices, adjust availability, view order details, assign delivery staff, and track delivery statuses.<br />
 • They can also analyze sales data, monitor performance metrics, and generate reports to optimize operations and improve customer service.<br />
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-2024-04-23-00_03_07.png)
+
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-orders-list-all-2024-04-23-00_03_54.png)
+
+![alt text](https://github.com/hadeer-elnaghy/Elmalek-Market/blob/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-product-list-2024-04-23-00_03_35.png)
 
 ## Mobile Application for Users:
 • The mobile application allows users to browse restaurant menus, place orders, make payments, track deliveries, and provide feedback.<br />
