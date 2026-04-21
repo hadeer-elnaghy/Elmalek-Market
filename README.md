@@ -38,28 +38,28 @@ The operational heart for restaurant owners and administrators.
         <sub><b>Product Inventory Management</b></sub>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_3b4dfe64.jpg" alt="User Landing"/><br />
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_3b4dfe64.jpg" alt="Customer Discovery View"/><br />
         <sub><b>Customer Discovery View</b></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.47_baf86802.jpg" alt="User Navigation"/><br />
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.47_baf86802.jpg" alt="Secure User Menu & Profile"/><br />
         <sub><b>Secure User Menu & Profile</b></sub>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_b8f2cc51.jpg" alt="Product Menu"/><br />
-        <sub><b>Category & Menu Browsing</b></sub>
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_b8f2cc51.jpg" alt="Orders List"/><br />
+        <sub><b>Orders List</b></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_da7d1a61.jpg" alt="Product Detail"/><br />
-        <sub><b>Product Selection & Customize</b></sub>
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_da7d1a61.jpg" alt="Live Chat"/><br />
+        <sub><b>Live Chat</b></sub>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_8aea77ea.jpg" alt="Driver App"/><br />
-        <sub><b>Logistics & Driver Dispatch</b></sub>
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_8aea77ea.jpg" alt="Categories & Products"/><br />
+        <sub><b>Categories & Products</b></sub>
       </td>
     </tr>
   </table>
