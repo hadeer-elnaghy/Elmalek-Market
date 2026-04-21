@@ -18,43 +18,52 @@ The operational heart for restaurant owners and administrators.
 - **Logistics Dispatch:** Intelligent assignment of delivery staff and schedule optimization.
 - **Business Intelligence:** Advanced sales analytics and performance metrics.
 
+## 📸 System Showcase
+
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-2024-04-23-00_03_07.png" width="400" height="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-orders-list-all-2024-04-23-00_03_54.png" width="400" height="250" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-product-list-2024-04-23-00_03_35.png" width="400" height="250" /></td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-2024-04-23-00_03_07.png" alt="Admin Dashboard"/><br />
+        <sub><b>Admin Operations Dashboard</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-orders-list-all-2024-04-23-00_03_54.png" alt="Orders List"/><br />
+        <sub><b>Order Process Management</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/screencapture-elmalekmarket-logic-sbs-admin-product-list-2024-04-23-00_03_35.png" alt="Product List"/><br />
+        <sub><b>Product Inventory Management</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_3b4dfe64.jpg" alt="User Landing"/><br />
+        <sub><b>Customer Discovery View</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.47_baf86802.jpg" alt="User Navigation"/><br />
+        <sub><b>Secure User Menu & Profile</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_b8f2cc51.jpg" alt="Product Menu"/><br />
+        <sub><b>Category & Menu Browsing</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_da7d1a61.jpg" alt="Product Detail"/><br />
+        <sub><b>Product Selection & Customize</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_8aea77ea.jpg" alt="Driver App"/><br />
+        <sub><b>Logistics & Driver Dispatch</b></sub>
+      </td>
     </tr>
   </table>
 </div>
-
-### 📱 User Mobile Experience
-Designed for a frictionless, "one-tap" ordering process.
-- **Smart Browsing:** Intuitive menus with personalized recommendations.
-- **Secure Payments:** Integrated gateways for Credit Cards, Digital Wallets, and COD.
-- **Live Tracking:** Real-time GPS updates on delivery progress.
-- **Engagement:** Loyalty programs, promotional deals, and comprehensive feedback systems.
-
-### 🚚 Driver Fleet Application
-Empowering delivery personnel with efficiency-focused tools.
-- **Route Optimization:** Integrated navigation for the fastest possible delivery.
-- **Assignment Hub:** Instant delivery alerts and order detail access.
-- **Transaction Handling:** Seamless flow for confirming deliveries and payments.
-
----
-
-## 🌟 Key Features
-
-- **✅ Order Management:** Intelligent queuing and driver assignment logic.
-- **✅ Rating & Feedback:** Direct communication loop to maintain service quality.
-- **✅ Promotions Engine:** Automated loyalty and discount systems to drive retention.
-- **✅ Real-time Alerts:** Push notifications for order confirmation, preparation, and arrival.
-
----
-
-## 📸 Mobile Preview Gallery
-
-<div align="center"><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_3b4dfe64.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.47_baf86802.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_b8f2cc51.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_da7d1a61.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_8aea77ea.jpg" height="400" /></div>
 
 ---
 
