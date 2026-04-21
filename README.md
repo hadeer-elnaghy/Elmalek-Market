@@ -54,17 +54,7 @@ Empowering delivery personnel with efficiency-focused tools.
 
 ## 📸 Mobile Preview Gallery
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_3b4dfe64.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.47_baf86802.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_b8f2cc51.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_da7d1a61.jpg" height="400" /></td>
-      <td><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_8aea77ea.jpg" height="400" /></td>
-    </tr>
-  </table>
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_3b4dfe64.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.47_baf86802.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_b8f2cc51.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_da7d1a61.jpg" height="400" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/Elmalek-Market/main/screenshots/WhatsApp%20Image%202024-04-23%20at%2000.09.48_8aea77ea.jpg" height="400" /></div>
 
 ---
 
